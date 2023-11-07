@@ -1,66 +1,50 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+title: "Acerca de"
+excerpt: "Tienda virtual de tejidos."
 layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2022-05-27T11:59:26-04:00
+  - url: /assets/images/SamakeShop/tarjeta-samakeshop.jpg
+    image_path: /assets/images/SamakeShop/tarjeta-samakeshop.jpg
+    alt: "Tarjeta SamakeShop"
+  - url: /assets/images/SamakeShop/foto-dani-sabri.jpg
+    image_path: /assets/images/SamakeShop/foto-dani-sabri.jpg
+    alt: "Foto de los creadores de SamakeShop"
+  - url: /assets/images/SamakeShop/brazaletes-noche-sol.jpg
+    image_path: /assets/images/SamakeShop/brazaletes-noche-sol.jpg
+    alt: "Pulseras noche y dia"
+last_modified_at: 2023-10-25T11:59:26-04:00
 toc: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+## 🤔Que es SamakeShop?
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+🏪SamakeShop es una tienda de tejidos🧵 principalmente de brazaletes, aunque no solo contamos con eso, también tenemos tejidos a crochet, o sea, tenemos mochilas, gorros, blusas, portavasos, monederos, etc... :smile:.
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+{% include gallery id="layouts_gallery" caption=" todo se consigue con `amor`, `amistad`, y `fuerza`." %}
 
-## Notable Features
+[Grupo WhatsApp]({{ "https://chat.whatsapp.com/ER12c5Hog1rJp2SzxsDo95" | relative_url }}){: .btn .btn--success .btn--large}
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), [giscus](https://giscus.app/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Arabic (عربي), Brazilian Portuguese (Português brasileiro), Catalan, Chinese, Danish, Dutch, Finnish, French (Français), German (Deutsch), Greek, Hebrew, Hindi (हिंदी), Hungarian, Indonesian, Irish (Gaeilge), Italian (Italiano), Japanese, Kiswahili, Korean, Malayalam, Myanmar (Burmese), Nepali (Nepalese), Norwegian (Norsk), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+## 🔥Diseño:
 
-## Demo Pages
+- Todo lo hacemos al gusto del cliente, solo damos ejemplo de lo que hacemos en las fotos, si desea otro color u otro estilo le podemos ayudar también.
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+   Puede elegir:
+     1. Color
+     2. Tamaño
+     3. Diseño
+     4. Y tu estilo unico ✨
 
-For even more demo pages check the [posts archive][year-archive].
+## 📦Pedido:
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+- Todo es por encargo entre 1-2 semanas
 
----
+## 🚕Mensajería:
 
-## Credits
+- Si desea domicilio tenemos mensajería para toda la Habana con costo adicional, si no, puede venir a buscarlo usted
+
+
+
+## Creditos
 
 ### Icons + Demo Images:
 
@@ -82,4 +66,4 @@ For even more demo pages check the [posts archive][year-archive].
 
 ---
 
-Mama Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+Buena calidad, buen estilo, buena presencia, solo falta una cosa, que la tengas tu. Escribeme.

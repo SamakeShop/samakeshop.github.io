@@ -22,7 +22,7 @@ foo:
 main:
   - title: "Quick-Start Guide"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "Acerca de"
     url: /about/
   - title: "Sample Posts"
     url: /year-archive/
@@ -36,8 +36,8 @@ main:
 docs:
   - title: Getting Started
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+      - title: "Blusas"
+        url: /docs/blusas/
       - title: "Structure"
         url: /docs/structure/
       - title: "Installation"

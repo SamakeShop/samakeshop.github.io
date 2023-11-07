@@ -1,0 +1,15 @@
+require 'json'
+ 
+if request.post?
+  site.likes += 1
+elsif request.delete?
+  site.likes -= 1
+end
+ 
+site.dislikes -= 1 if request.post?
+site.dislikes += 1 if request.delete?
+ 
+response = {
+  'likes' => site.likes,
+  'dislikes' => site.dislikes
+}
